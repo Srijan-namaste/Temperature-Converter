@@ -1,11 +1,11 @@
 # Temperature-Converter
-This is a tool used for conversion of temperature between
+This is a tool used for the conversion of temperature between
 different units. It is made with HTML, styled in CSS & 
-programmed using JAVA Script. It comprizes of conversion 
-between 3 units which are Celsius, Fahrenheit & Kelvin.
-It is precise upto two decimal places. It has 4 type of
+programmed using JAVA Script. It can do conversion
+between 3 units: Celsius, Fahrenheit & Kelvin.
+It is precise up to two decimal places. It has 4 types of
 conversions. 
-These conversion are: -> from Celsius to Fahrenheit
+These conversions are: -> from Celsius to Fahrenheit
                       -> from Fahrenheit to Celsius
                       -> from Celsius to Kelvin
                       -> from Kelvin to Celsius
